@@ -12,7 +12,7 @@ public class Sample1 {
 	@Test
 	public void b()
 	{
-		System.out.println("b");
+		System.out.println("bjj");
 	}
 	@Test
 	public void c()
