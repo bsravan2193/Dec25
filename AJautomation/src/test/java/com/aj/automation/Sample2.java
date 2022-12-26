@@ -11,7 +11,7 @@ public class Sample2 {
 	@Test
 	public void e()
 	{
-		System.out.println("e");
+		System.out.println("eioo");
 	}
 	@Test
 	public void f()
