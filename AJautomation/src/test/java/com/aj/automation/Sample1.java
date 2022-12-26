@@ -7,7 +7,7 @@ public class Sample1 {
 	public void a()
 	{
 		System.out.println("a");
-		System.out.println("aJK");
+		System.out.println("aJK89");
 	}
 	@Test
 	public void b()
